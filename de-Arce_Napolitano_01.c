@@ -1,6 +1,6 @@
 //Written by: Richelle de Arce and Klaire Napolitano
 //This code accepts only integers(int) variable type for input
-//committing
+
 #include <stdio.h>
 #include <stdlib.h>
 
